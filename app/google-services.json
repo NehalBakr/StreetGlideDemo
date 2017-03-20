@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808216154923",
+    "firebase_url": "https://street-glide-demo.firebaseio.com",
+    "project_id": "street-glide-demo",
+    "storage_bucket": "street-glide-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808216154923:android:9ffaef9f15b0c114",
+        "android_client_info": {
+          "package_name": "com.example.nehal.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808216154923-n29fe4bo2ntklchfhv8n3e96i3l6u82m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nehal.test",
+            "certificate_hash": "66ac437a38eb9096bc5e78c49b446d7aa0b61f47"
+          }
+        },
+        {
+          "client_id": "808216154923-p9h5nhb7hbp372m4kpi5atdkqc04rglh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYsSc9uc1WMY9K32xUsDs9luYFBDvMisk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808216154923-p9h5nhb7hbp372m4kpi5atdkqc04rglh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

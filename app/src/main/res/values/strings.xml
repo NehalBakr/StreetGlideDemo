@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="enter_your_valid_email">Enter Your Valid Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="email_login">Email</string>
+</resources>
