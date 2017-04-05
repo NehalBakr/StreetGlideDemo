@@ -9,14 +9,14 @@
     <Button
         android:id="@+id/bLogin"
         android:text="@string/login"
-        android:onClick="bLogin_Click"
+        android:onClick="loginButtonClicked"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
     <Button
         android:id="@+id/bRigister"
         android:text="@string/sign_up"
-        android:onClick="bSignUp_click"
+        android:onClick="signUpButtonClicked"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 

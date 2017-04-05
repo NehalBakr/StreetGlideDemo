@@ -44,7 +44,7 @@
     <Button
         android:id="@+id/bRegister"
         android:text="@string/register"
-        android:onClick="bRegister_click"
+        android:onClick="registerButtonClicked"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 

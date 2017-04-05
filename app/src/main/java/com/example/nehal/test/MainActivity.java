@@ -16,12 +16,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void bLogin_Click(View v){
+    public void loginButtonClicked(View v){
         Intent i= new Intent(MainActivity.this,Login.class);
         startActivity(i);
     }
 
-    public void bSignUp_click(View v) {
+    public void signUpButtonClicked(View v) {
         Intent i= new Intent(MainActivity.this, Register.class);
         startActivity(i);
     }
