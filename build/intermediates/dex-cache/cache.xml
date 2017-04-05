@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nehal/AndroidStudioProjects/StreetGlideDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28663d7c5c69784123aeb370b9f09b17390335f4">
+        <dex dex="/home/nehal/AndroidStudioProjects/StreetGlideDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fe2e8f4ad01feed4ffa47bb233f4e95fc614292d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nehal/AndroidStudioProjects/StreetGlideDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/nehal/AndroidStudioProjects/StreetGlideDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_17b58883381c2485cd7718d868f9d7f878a6a0d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nehal/.android/build-cache/3a8aabc934824430b1c221388676e2d146a5a46b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/nehal/AndroidStudioProjects/StreetGlideDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b62b80e809971dd55e1b44a52991c97e7bb0cede/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nehal/.android/build-cache/d1d0318f6672f3df6dbc927f5bef9e5d1dec2191/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/nehal/AndroidStudioProjects/StreetGlideDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0bcabc705dfdcd58c8a16a96756a6f3bbe987ef/classes.dex" />
+    </item>
+
+</items>

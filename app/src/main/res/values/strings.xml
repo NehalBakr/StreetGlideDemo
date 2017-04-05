@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="enter_your_valid_email">Enter Your Valid Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="email_login">Email</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="processing">Processing...</string>
+    <string name="location_changed">Location Changed</string>
+    <string name="password_not_match">Password not match</string>
+    <string name="please_wait2">Please wait...</string>
+    <string name="processing2">Processing...</string>
+    <string name="registeration_successful">Registeration is Successful</string>
+    <string name="login_failed">Login failed</string>
+    <string name="registeration_failed">Registeration Failed</string>
+    <string name="title_activity_profile_m">Map</string>
+    <string name="connection_suspended">Connection Suspended</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="current_position">Current Position</string>
+    <string name="connected">Connected</string>
+    <string name="current_position1">Current Position</string>
+    <string name="error">Error: Password not match</string>
+    <string name="error1">Error</string>
+    <string name="not_match">Password not match</string>
+</resources>
